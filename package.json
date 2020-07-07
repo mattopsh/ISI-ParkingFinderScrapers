@@ -18,7 +18,7 @@
   "homepage": "https://github.com/oscarmorrison/nightmare-heroku",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "electron": "^1.6.10",
+    "electron": "^9.1.0",
     "express": "^4.16.3",
     "https": "^1.0.0",
     "nightmare": "^2.10.0",
